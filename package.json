@@ -1,0 +1,19 @@
+{
+  "name": "numbers-in-words",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@bitbucket.org:mlouati/numbers-in-words.git",
+  "author": "maryam <mlouati@santech.fr>",
+  "license": "MIT",
+  "scripts": {
+    "watch-test": "mocha -w --watch-extensions ts --require ts-node/register 'test/spec.ts'"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.0",
+    "@types/mocha": "^2.2.46",
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  }
+}
