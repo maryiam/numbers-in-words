@@ -10,7 +10,9 @@
     * Should
 
 
-# KATA TU : Numbers in words 
+# KATA TU : Numbers in words :
+
+Link : http://codingdojo.org/kata/NumbersInWords/ 
 
 - clone the project : `git clone git@bitbucket.org:mlouati/numbers-in-words.git`
 - install dependencies : `yarn`
