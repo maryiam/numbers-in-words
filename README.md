@@ -1,4 +1,4 @@
-# TU TESTING 
+# TU TESTING TDD
 
 - Testing Framework : `MOCHA` (https://mochajs.org/)
 - Assertion library : `CHAI` (http://chaijs.com/)
@@ -14,8 +14,6 @@
 
 Link : http://codingdojo.org/kata/NumbersInWords/ 
 
-- clone the project : `git clone git@bitbucket.org:mlouati/numbers-in-words.git`
+- clone the project : `git clone https://github.com/maryiam/color-organizer-with-state.git`
 - install dependencies : `yarn`
 - run the test task : `yarn run watch-test`
-
-
